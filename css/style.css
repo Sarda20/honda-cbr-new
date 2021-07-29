@@ -1,0 +1,30 @@
+/*--------------------
+ External CSS 
+ -----------------------*/
+
+.honda-bg-success {
+    background-color: #264653;
+    ;
+}
+
+.honda-btn-warning {
+    background-color: #E76F51;
+    width: 168px;
+}
+
+.fa-star {
+    color: #E77C40;
+}
+
+.honda-text-primary {
+    color: #23A6F0;
+    font-weight: 600;
+}
+
+.challenge:hover {
+    transform: scale(1.5);
+}
+
+.honda-text-warning {
+    color: #E76F51;
+}
